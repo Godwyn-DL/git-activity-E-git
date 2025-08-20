@@ -1,4 +1,10 @@
-John Cyrus Herrera  ( TEAM B )
-Angela Kim Wahing  ( TEAM B )
-Diana Cayanan  ( TEAM B )
-Date: 2025-08-19  
+( Team A ) 
+- Godwyn De Leon  
+- Giero Shan Datu  
+- Jim Carlo Diano  
+- John Vick De Guzman  
+
+( Team B )  
+- John Cyrus Herrera  
+- Angela Kim Wahing  
+- Diana Cayanan  
